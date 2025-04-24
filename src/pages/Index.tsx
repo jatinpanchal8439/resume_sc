@@ -203,7 +203,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
               <span className="text-xl font-bold text-resume-dark">ResumeInsight<span className="text-resume-primary">Pro</span></span>
-              <p className="text-sm text-gray-500 mt-1">© 2023 ResumeInsightPro. All rights reserved.</p>
+              <p className="text-sm text-gray-500 mt-1">© 2025 ResumeInsightPro. All rights reserved.</p>
             </div>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-500 hover:text-resume-primary">About</a>
